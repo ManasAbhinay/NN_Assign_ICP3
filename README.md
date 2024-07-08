@@ -3,7 +3,7 @@
 
 ## 1. Predicting Diabetes and Breast Cancer
 - **Diabetes Prediction:** Modify model by adding Dense layers.
-- **Breast Cancer Prediction:** Switch data to Breast Cancer dataset, normalize using `StandardScaler`.
+- **Breast Cancer Prediction:** Switch data to Breast Cancer dataset, normalize using StandardScaler.
 
 ## 2. Image Classification on MNIST
 - **Visualization:** Plot training/validation loss and accuracy.
