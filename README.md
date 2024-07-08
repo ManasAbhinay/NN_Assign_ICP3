@@ -11,4 +11,4 @@
 - **Model Exploration:** Experiment with layer count and activation functions (e.g., tanh, sigmoid).
 - **Scaling Impact:** Compare model performance with and without image scaling.
 
-[Explanation Video(https://drive.google.com/file/d/1ydRz3ycB0HKaAQBQkltThOZFpq5RlYDZ/view?usp=sharing)
+[Explanation Video](https://drive.google.com/file/d/1ydRz3ycB0HKaAQBQkltThOZFpq5RlYDZ/view?usp=sharing)
